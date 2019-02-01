@@ -1,2 +1,1 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+A Web App that uses the Foodie API to retrieve restaurants based on cuisine type, location, reviews, etc. 
